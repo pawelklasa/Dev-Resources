@@ -3,6 +3,9 @@ A list of bookmarks and resources
 
 MDN JS - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
+
+[I'm an inline-style link](https://www.google.com)
+
 Useful plugins in Code:
 
 Bracket Pair Coloriser - https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
