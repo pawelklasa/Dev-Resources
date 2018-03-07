@@ -4,6 +4,7 @@
 1. [MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 2. [Eloquent JavaScript](http://eloquentjavascript.net)
 3. [Markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+4. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Useful plugins in Code:
 
